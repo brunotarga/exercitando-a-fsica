@@ -1,5 +1,6 @@
 import React from 'react';
 import _ from 'lodash';
+<link  rel = "stylesheet"  href = "https://latex.now.sh/style.min.css"  />
 
 import {Layout} from '../components/index';
 import {markdownify} from '../utils';
