@@ -2,6 +2,7 @@
 import { useEffect } from 'react';
 import Router from 'next/router';
 import '../sass/main.scss';
+<link  rel = "stylesheet"  href = "https://latex.now.sh/style.min.css"  />
 
 
 function MyApp({ Component, pageProps }) {
